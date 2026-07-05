@@ -69,7 +69,7 @@ I mentor junior devs, own the frontend architecture, and occasionally venture in
 - NestJS + PostgreSQL backend, JWT + httpOnly refresh cookies
 - TanStack Table with inline editing, CV upload, admin panel
 - Resend email integration (forgot/reset password flow)
-- Deployed on Netcup VPS via GitHub Actions CI/CD
+- Deployed on a VPS via GitHub Actions CI/CD
 
 ---
 
@@ -82,7 +82,7 @@ I mentor junior devs, own the frontend architecture, and occasionally venture in
 ---
 
 ### [filip-bulatovic.dev](https://filip-bulatovic.dev) — *Personal Portfolio*
-> Portfolio + blog built with TanStack Start, CSS Modules, deployed on Netcup VPS
+> Portfolio + blog built with TanStack Start, CSS Modules, deployed on a VPS
 
 <br />
 
@@ -101,7 +101,7 @@ I mentor junior devs, own the frontend architecture, and occasionally venture in
 
 - 🏗️ Architecting scalable React frontends for complex domains
 - 🔄 TanStack ecosystem (Table, Router, Query, Start)
-- 🖥️ Self-hosted infra — Netcup VPS, PM2, Nginx, Docker
+- 🖥️ Self-hosted infra — VPS, PM2, Nginx, Docker
 - 🤖 LLM-powered developer tooling
 - 📦 Building side projects from idea → production
 
