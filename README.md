@@ -86,17 +86,6 @@ I mentor junior devs, own the frontend architecture, and occasionally venture in
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fbulatovic&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbulatovic&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<br />
-
 ## 🧠 What I'm into right now
 
 - 🏗️ Architecting scalable React frontends for complex domains
